@@ -11,6 +11,7 @@ const designs = [
     desc:  "A clean, accessible site for a local service business focused on trust, clarity, and booking flow.",
     Thumb: ThumbService,
     bg:    "rgba(79,156,249,0.06)",
+    href:  "https://segservicesite.netlify.app/",
   },
   {
     id:    "2",
@@ -19,6 +20,7 @@ const designs = [
     desc:  "An interactive card-matching game (jeu de memoire) with smooth state transitions and score tracking.",
     Thumb: ThumbMemory,
     bg:    "rgba(79,156,249,0.06)",
+    href:  "/coming-soon",
   },
   {
     id:    "3",
@@ -27,6 +29,7 @@ const designs = [
     desc:  "A full shopping experience with a product grid, filters, cart, and a streamlined checkout.",
     Thumb: ThumbEcommerce,
     bg:    "rgba(167,139,250,0.06)",
+    href:  "/coming-soon",
   },
   {
     id:    "4",
@@ -35,6 +38,7 @@ const designs = [
     desc:  "A data visualization dashboard with charts, KPI tiles, and interactive filters.",
     Thumb: ThumbAnalytics,
     bg:    "rgba(74,222,128,0.05)",
+    href:  "/coming-soon",
   },
 ]
 
