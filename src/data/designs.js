@@ -20,7 +20,7 @@ const designs = [
     desc:  "An interactive card-matching game (jeu de memoire) with smooth state transitions and score tracking.",
     Thumb: ThumbMemory,
     bg:    "rgba(79,156,249,0.06)",
-    href:  "/coming-soon",
+    href:  "https://seg3125memorygame.netlify.app/",
   },
   {
     id:    "3",
