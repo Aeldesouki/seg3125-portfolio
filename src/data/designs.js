@@ -29,7 +29,7 @@ const designs = [
     desc:  "A full shopping experience with a product grid, filters, cart, and a streamlined checkout.",
     Thumb: ThumbEcommerce,
     bg:    "rgba(167,139,250,0.06)",
-    href:  "/coming-soon",
+    href:  "https://seg3125ecommerce.netlify.app/",
   },
   {
     id:    "4",
