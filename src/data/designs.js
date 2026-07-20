@@ -38,7 +38,7 @@ const designs = [
     desc:  "A data visualization dashboard with charts, KPI tiles, and interactive filters.",
     Thumb: ThumbAnalytics,
     bg:    "rgba(74,222,128,0.05)",
-    href:  "/coming-soon",
+    href:  "https://seg3125-dashboard1.netlify.app/",
   },
 ]
 
